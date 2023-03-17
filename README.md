@@ -10,7 +10,7 @@ Fique a vontade para entrar em contato comigo para dar opiniões, sugestões e c
 <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />👉 lucasakirahori@gmail.com 
 </div><br/>
 
-## Skills 🛠️
+## Tecnologias 🛠️
 <div style="display: inline_block"><br/>
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
