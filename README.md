@@ -1,5 +1,6 @@
 ## Olá!👋 Meu nome é Lucas Akira Hori,
 Estou iniciando no mundo da programação e aos poucos vou publicando meus projetos aqui no GitHub.
+Confira os destacados em Estrela, são os meus projetos prontos!
 Fique a vontade para entrar em contato comigo para dar opiniões, sugestões e críticas. A evolução sempre virá dos erros 🔥🙌
 
 ## Contatos 📞📧
