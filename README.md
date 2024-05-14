@@ -9,7 +9,7 @@ Fique a vontade para entrar em contato comigo para dar opiniões, sugestões e c
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-akira-hori-551048154/)
 
-**Email para contato:** lucasakirahori@gmail.com 
+**Email** lucasakirahori@gmail.com 
 <br/>
 
 ## Tecnologias 🛠️
